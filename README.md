@@ -1,3 +1,5 @@
 # funnyThings
 前端的一些效果，有趣的实现，新的技术点
-1. 前端弹幕效果
+
+##canvas 粒子效果
+> demo1 雾霾颗粒效果（动画的使用requestAnimationFrame）
