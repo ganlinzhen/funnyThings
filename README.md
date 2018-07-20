@@ -3,3 +3,5 @@
 
 ##canvas 粒子效果
 > demo1 雾霾颗粒效果（动画的使用requestAnimationFrame）
+
+##water-wave 水波效果
